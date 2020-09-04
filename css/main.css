@@ -1,2 +1,19 @@
-
+* {
+  -webkit-box-sizing: border-box;
+     -moz-box-sizing: border-box;
+          box-sizing: border-box;
+}
+body {
+  margin: 0;
+  background-color: bisque;
+}
+.header {
+  width: 1170px;
+  margin: 0 auto;
+  text-align: center;
+}
+h1 {
+  font-size: 48px;
+  color: cadetblue;
+}
 /*# sourceMappingURL=main.css.map */
